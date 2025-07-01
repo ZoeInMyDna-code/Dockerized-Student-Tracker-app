@@ -1,8 +1,4 @@
-Absolutely, Zoe! Here's a **clean, professional `README.md`** for your Dockerized FastAPI student tracker project. This version assumes the user will create and manage their own Vault credentials — and it’s beginner-friendly yet technically complete.
 
----
-
-````markdown
 # 📚 Student Tracker App – Dockerized FastAPI + Vault + MongoDB
 
 This project is a **Cloud Native-ready FastAPI application** that allows students to:
